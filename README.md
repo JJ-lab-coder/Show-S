@@ -1,69 +1,51 @@
-# Overview
+# 💻 Project & Learning Repository
 
-This project is a REST API built for the KV5035 Software Architecture module.
-It provides data about authors, presentations, and types from a conference database.
+This repository serves as a central hub for my programming journey. It contains the projects, experiments, and practice work I create as I develop my skills as a developer.
 
-# Base URL:
-https://w24016974.nuwebspace.co.uk/KV5035/api/
+---
 
-# Endpoints:
-About
+## 🚀 Purpose
 
-Returns basic information about the API.
+This repo represents:
 
-GET /about.php
+* My ongoing journey learning programming concepts
+* A collection of projects and experiments
+* A space to practise writing cleaner, more efficient code
+* A record of my growth and progress over time
 
-# Author :
+Each branch may contain different ideas, experiments, or work-in-progress projects.
 
-Returns a list of authors.
+---
 
-GET /author.php
+## 🧪 What You'll Find Here
 
-# Optional parameters:
+* Small projects
+* Coding experiments
+* Practice exercises
+* Work-in-progress ideas
 
-author-id → get a specific author
+Everything in this repository reflects my learning process, problem-solving, and improvements in code structure and organisation.
 
-presentation-id → get authors for a presentation
+---
 
-page → page number
+## 📈 Progress
 
-size → number of results per page
+I regularly update this repository as I explore new concepts and build new projects.
 
-# Examples
-/author.php?author-id=21
+---
 
-/presentation.php?presentation-id=21
+## 🔧 Future Plans
 
-/author.php?page=1&size=10
+* Build more complete and scalable projects
+* Explore new programming languages and tools
+* Continue improving code quality and best practices
 
-# Presentation
-Returns presentation data.
+---
 
-GET /presentation.php
+## 📌 Note
 
-# Optional parameters:
-presentation-id → get a specific presentation
+This is an active repository — expect frequent updates and ongoing changes.
 
-author-id → get presentations by an author
+---
 
-# Types
-
-Handles presentation types.
-
-GET /type.php
-
-POST /type.php
-
-PUT /type.php
-
-PATCH /type.php
-
-DELETE /type.php
-
-# Tools
-PHP
-
-MySQL
-
-JSON
-
+⭐ More updates coming as I continue building!
