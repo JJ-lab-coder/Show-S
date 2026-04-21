@@ -2,7 +2,9 @@ This respository contains projects and experiments that demonstrate my growth an
 
 # What You'll Find Here 
 -small exercises and pratice task
+
 -larger projects and experiments 
+
 -useage of diffrent tools 
 
 # Purpose
